@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Fredoka One', cursive;
+    background:#f6f6f6;
+}
+
+.text1{
+    text-align: center;
+}
+
+.imagem {
+    text-align: center;
+}
+
+.dev {
+    border-radius: 1px;
+    background: black;
+}
