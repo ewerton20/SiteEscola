@@ -1,19 +1,63 @@
-@charset "UTF-8";
+.cabecalho{
+    background-color: #383D58;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    height: 130px;
 
-body {
-    font-family: 'Fredoka One', cursive;
-    background:#f6f6f6;
+    }
+    .cabecalho-lista-item{
+         display: inline-block;
+         margin: 0 17px;
+         padding: 24px  0;
+         font-size: 24px;
+
+    }
+ 
+.escola-imagem{
+    width:25%;
+}
+.escola {
+    background-image: linear-gradient();
+    
 }
 
-.text1{
-    text-align: center;
-}
+    .escola {
+        background-image: linear-gradient(#383D58);
+        }
 
-.imagem {
-    text-align: center;
-}
+        .escola {
+            background-image: linear-gradient(#383D58,#00c0eb);
+            }
+            .escola{
+                background-image: linear-gradient(#383D58,#00c0eb);
+                color: white;
+                display:flex;
+                justify-content: center;
+                align-items: center;
+                padding: 24px 0;          
+            }
+            .escola-conteudo{
+                width: 35%;
+                }
+                .escola-titulo {
+                    padding: 24px 0;
+                    }
+            .estudante-imagem{
 
-.dev {
-    border-radius: 1px;
-    background: black;
-}
+                width: 120px;
+
+            }
+            .estudante-icone{
+
+                width:24px;
+
+            }
+            .estudante-div{
+                text-align: center;
+            }
+
+            .escola-div-conteudo{
+                margin: auto;
+            }
