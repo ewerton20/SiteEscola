@@ -55,7 +55,7 @@ body {
                     }
             .estudante-imagem{
                
-                width: 120px;
+                width: 102px;
 
             }
             .estudante-icone{
@@ -64,7 +64,8 @@ body {
 
             }
             .estudante-div{
-                text-align: center;
+                margin-top: 85px;
+                margin-left: 43%;
             }
 
             .escola-div-conteudo{
@@ -74,4 +75,23 @@ body {
             .link-estutante {
                 color: white;
                 text-decoration: solid;
+            }
+
+            .segundo{
+                margin-top: -192px;
+                margin-left: 4%;
+            }
+
+            .icones{
+                margin-left: 18px;
+            }
+
+            .terceiro {
+                margin-top: -192px;
+                margin-left: 86%;
+            }
+
+            .quarto {
+                margin-top: -192px;
+                margin-left: 86%;
             }
