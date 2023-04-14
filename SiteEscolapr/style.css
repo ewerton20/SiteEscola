@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: space-between;
     height: 130px;
-    width: 1920px;
+    width: 1905px;
     margin: -8px 0px 0px -8px;
     }
     .cabecalho-lista-item{
@@ -23,7 +23,8 @@ body {
     width:25%;
     border-radius: 10%;
     /* margin-inline: auto; */
-    margin-left: 36%;
+    margin-left: 39%;
+    margin-right: auto;
 }
 .escola {
     background-image: linear-gradient();
@@ -44,7 +45,7 @@ body {
                 justify-content: center;
                 align-items: center;
                 padding: 24px 0;      
-                width: 1920px;
+                width: 1905px;
     margin: 0px 0px 0px -8px;    
             }
             .escola-conteudo{
@@ -92,6 +93,14 @@ body {
             }
 
             .quarto {
-                margin-top: -192px;
-                margin-left: 86%;
+                
+                margin-top: 49px;
+                margin-left: 43%;
+
+            }
+
+            .imagemescola {
+                display: flex;
+                align-items: center;
+                justify-content: space-around;
             }
